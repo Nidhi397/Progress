@@ -1,5 +1,5 @@
-# Udemy Course: Python Data Structures and Tensorflow Developer Certificate
-
+# Udemy Course: Python Data Structures, Tensorflow Developer Certificate 
+Through this repository I am tracking my progress in DSA and Tensorflow as I prepare for the certificate exam.
 ##Week 1
 # Course Progress Tracker
 
@@ -13,13 +13,11 @@
 ### Day 2
 - [ ] Linked Lists Interiew Questions
 - [ ] NN Regression with TF
-- [ ] Action item 3
 - **Percentage:** 0%
 
 ### Day 3
 - [ ] Doubly Linked Lists Coding Exercises
 - [ ] NN Classification with TF
-- [ ] Action item 3
 - **Percentage:** 0%
 
 ### Day 4
